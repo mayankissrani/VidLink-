@@ -1,3 +1,7 @@
+[https://github.com/mayankissrani/VidLink-/blob/main/assests/webrtc-flow.png](Flow)
+
+
+
 # 🔗 VidLink
 
 > **Real-time peer-to-peer video & data communication built with WebRTC, React, TypeScript, and WebSockets.**
