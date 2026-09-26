@@ -1,4 +1,4 @@
-[https://github.com/mayankissrani/VidLink-/blob/main/assests/webrtc-flow.png](Flow)
+[assests/webrtc-flow.png] (Flow)
 
 
 
