@@ -1,6 +1,6 @@
-[assests/webrtc-flow.png] (Flow)
-
-
+<p align="center">
+  <img src="./assests/webrtc-flow.png" alt="VidLink WebRTC Architecture" width="900">
+</p>
 
 # 🔗 VidLink
 
